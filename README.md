@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi 👋, I'm Hi, I'm Aditya Patadiya!
+# Hi 👋, I'm Aditya Patadiya!
 
 </div>
 
