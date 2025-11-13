@@ -191,6 +191,7 @@ I am a dedicated developer with a keen interest in **Software Developer**. I thr
 ## **📱 Socials**
 
 <p align="left">
+  <a href="https://adityapatadiya.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-0000FF?style=for-the-badge&logo=website&logoColor=white" /></a>
   <a href="https://github.com/AdityaPatadiya" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://instagram.com/Adityasoni7669" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/aditya-patadiya-5356a3247/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
