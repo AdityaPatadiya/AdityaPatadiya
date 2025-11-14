@@ -19,8 +19,8 @@ I am a dedicated developer with a keen interest in **Software Developer**. I thr
 </div>
 
 ## **💻 About Me**
-- 🔭 I'm currently working on [File Integrity Monitor](https://github.com/AdityaPatadiya/File-Integrity-Monitor-FIM)
-- 👯 I'm looking to collaborate [IntelliFIM](https://github.com/AdityaPatadiya/IntelliFIM/tree/rust-version)
+- 🔭 I'm currently working on [IntelliFIM](https://github.com/AdityaPatadiya/IntelliFIM)
+- 👯 I'm looking to collaborate [IntelliFIM_rs](https://github.com/AdityaPatadiya/IntelliFIM_rs/tree/rust-version)
 - 🤝 I'm looking for help with [ProvenanceGuard](https://github.com/AdityaPatadiya/ProvenanceGuard) 
 - 🌱 I'm currently learning **System Design** and Contributing to Open-Source repo [mitmproxy](https://github.com/mitmproxy/mitmproxy) and [NS-3](https://gitlab.com/nsnam/ns-3-dev)
 - 💬 Ask me about Python, DevOps, Full Stack
